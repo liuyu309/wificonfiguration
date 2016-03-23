@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">wificonfiguration</string>
+
+    <string name="bar_title1">直连模式配置</string>
+    <string name="bar_title2">热点模式配置</string>
+    <string name="bar_title3">搜索设备</string>
+
+    <string name="bar_title4">管理员</string>
+    <string name="bar_title5">配置设备</string>
+
+    <string name="tab_title1">直连模式配置</string>
+    <string name="tab_title2">热点模式配置</string>
+    <string name="tab_title3">配置设备</string>
+
+    <string name="tv_sure">确认</string>
+    <string name="tv_cancel">取消</string>
+
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_ok">确定</string>
+    <string name="this_return">返回</string>
+    <string name="alert_dialog_text">确定要退出%1$s么？</string>
+    <string name="toast_nocheck_text">没有选中的操作对象</string>
+    <string name="warning">警告</string>
+    <string name="wifi_not_open">WIFI没有开启，请确认是否已经开启或连接？</string>
+    <string name="device_isconnected">设备已连上wifi</string>
+    <string name="select_utf">中文使用UTF-8编码</string>
+    <string name="easymode">直连模式添加</string>
+    <string name="adhocmode">热点模式添加</string>
+    <string name="display_password">密码可见</string>
+    <string name="search">搜索本地WIFI</string>
+    <string name="wifi_info">WIFI网络</string>
+
+
+    <string name="tv_tv1">第一步:</string>
+    <string name="tv_tv2">第二步:</string>
+    <string name="tv_tv3">第三步:</string>
+
+    <string name="tv_zlms_tv1">请将您的本手机加入您的家庭Wifi路由器</string>
+    <string name="tv_zlms_tv2">请输入Wifi密码及设备密码后点击添加按钮</string>
+    <string name="tv_zlms_tv3">Wifi名称</string>
+    <string name="tv_zlms_tv4">Wifi密码</string>
+
+
+    <string name="tv_rdms_tv1">请将设备通电，本手机加入设备Wifi热点;</string>
+    <string name="tv_rdms_tv2">在下方箭头选择Wifi路由器,输入密码后点击添加按钮;</string>
+    <string name="tv_rdms_tv3">添加完成后,将您的手机切换到本地Wifi路由器,就可远程控制设备;</string>
+    <string name="tv_rdms_tv4">搜索本地Wifi</string>
+
+
+    <string name="set_tv1">软件版本</string>
+    <string name="set_tv2">设备ID</string>
+
+    <string name="set_peizhi_tv1">工作模式</string>
+    <string name="set_peizhi_tv2">STA Manual</string>
+    <string name="set_peizhi_tv3">AP模式</string>
+    <string name="set_peizhi_tv4">网络名称</string>
+    <string name="set_peizhi_tv5">加密方式</string>
+    <string name="set_peizhi_tv6">安全模式</string>
+    <string name="set_peizhi_tv7">带网络连接安全模式</string>
+    <string name="set_peizhi_tv8">密码</string>
+    <string name="set_peizhi_tv9">工作信道</string>
+    <string name="set_peizhi_tv10">多媒体使能开关</string>
+    <string name="set_peizhi_tv11">网络协议选择</string>
+    <string name="set_peizhi_tv12">远端IP</string>
+    <string name="set_peizhi_tv13">串口波特率</string>
+    <string name="set_peizhi_tv14">是否启用DHCP</string>
+    <string name="set_peizhi_tv15">本地IP</string>
+    <string name="set_peizhi_tv16">子网掩码</string>
+    <string name="set_peizhi_tv17">网关</string>
+    <string name="set_peizhi_tv18">DNS</string>
+
+
+    <string name="tv_shebei_gly">管理员</string>
+    <string name="tv_shebei_pzsb">配置设备</string>
+
+    <string name="tv_guanliyuan_tv1">读取设备ID</string>
+    <string name="tv_guanliyuan_tv2">升级固件</string>
+    <string name="tv_guanliyuan_tv3">设置设备ID</string>
+
+
+    <string name="set_peizhi_tv19">远端端口</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

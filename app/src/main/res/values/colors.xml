@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+
+
+    <color name="line_gray">#cdcdcd</color>
+
+
+
+    <color name="bg_color_gray1">#e8e9ea</color>
+
+    <color name="bt_sure_green">#62a253</color>
+    <color name="bt_cancel_gray">#2c333d</color>
+    <color name="bt_blue">#1f85d7</color>
+
+
+
+    <color name="text_color_gray1">#6c6c74</color>
+    <color name="text_color_gray2">#464a4d</color>
+
+    <color name="titlebar_color_blue1">#1f85d7</color>
+    <color name="titlebar_color_blue2">#4ca3e8</color>
+
+
+</resources>
